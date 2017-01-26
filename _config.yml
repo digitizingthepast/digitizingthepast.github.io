@@ -1,10 +1,10 @@
 # Site settings
-title: Freelancer
-email: your-email@domain.com
-url: https://example.github.io
-description: "Write an awesome description for your new site here. You can edit this line in _config.yml. It will appear in your document head meta (for Google search results) and in your feed.xml site description."
-skills: "Web Developer - Graphic Artist - User Experience Designer"
-meta_author: LastName FirstName
+title: Digitizing the Past
+email: ketchley@uw.edu
+url: https://digitizingthepast.github.io
+description: "This seminar will give students the opportunity to participate in an active and successful Digital Humanities project. Themes include project and data management, sourcing and structuring data, and ‘making things’ with a range of open source digital tools. This process will provide insights into the challenges of working in a digital environment as well as the great potential it offers to interact with data in new ways. Students will have the opportunity to develop strategies for working effectively and collaboratively in a team environment, developing skills valued by employers in every industry."
+skills: "Digital Humanities - History"
+meta_author: Ketchley Sarah
 
 # Google webmaster tools
 google_verify:
@@ -31,7 +31,7 @@ color:
 
 # Footer settings
 footer:
-  copyright: Dr. Henry Jekyll
+  copyright: Dr. Sarah Ketchley
   location: Location
   social: Around the Web
   credits: Credits
@@ -39,20 +39,12 @@ footer:
 # Social networks usernames (many more available: google-plus, flickr, dribbble, pinterest, instagram, tumblr, linkedin, etc.)
 social:
   - title: twitter
-    url: http://twitter.com/jekyllrb
+    url: http://twitter.com/sarahketchley
   - title: facebook
     url:
-  - title: stack-overflow
-    url: http://stackoverflow.com/questions/tagged/jekyll
-  - title: bitbucket
-    url: http://bitbucket.org/jekyll
   - title: github
-    url: http://github.com/jekyll
+    url: https://github.com/digitizingthepast
 
-# Postal address (add as many lines as necessary)
-address:
-  - line: 3481 Melrose Place
-  - line: Beverly Hills, CA 90210
 
 # Credits content
 credits: 'Freelancer is a free to use, open source Bootstrap theme created by <a href="http://startbootstrap.com">Start Bootstrap</a>.'
